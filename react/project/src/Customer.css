@@ -1,0 +1,13 @@
+.tablecontainer{
+    margin: 10px 10px;
+    align-content: center;
+}
+
+.custom-width {
+    width: 80px !important;
+    margin: 10px 10px;
+}
+.table-hover{
+    text-align: center;
+    display: inline; 
+}
